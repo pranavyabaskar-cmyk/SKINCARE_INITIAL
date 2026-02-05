@@ -59,7 +59,7 @@ A semantic recommendation engine using sentence embeddings.
 - **Natural Language Processing**
 - **TF-IDF (Scikit-learn)**
 - **Sentence-BERT (`all-MiniLM-L6-v2`)**
-- **FAISS** for similarity search
+- **FAISS** for efficient similarity search in the transformer-based recommender.
 - **Mistral LLM** (Chatbot mode)
 - **NumPy / Pickle**
 - **Git LFS** for large model files
